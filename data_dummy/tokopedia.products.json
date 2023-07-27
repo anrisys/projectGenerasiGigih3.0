@@ -1,0 +1,29 @@
+[
+  {
+    "name": "kaktus",
+    "link": "https://kaktus.com",
+    "price": 3000,
+    "__v": 0
+  },
+  {
+    "name": "Tisu",
+    "link": "https://tisu.com",
+    "price": 5000
+  },
+  {
+    "name": "Kotak tisu",
+    "link": "https://tisu-kotak.com",
+    "price": 2500
+  },
+  {
+    "name": "Pengharum ruangan",
+    "link": "https://spray-cologne.com",
+    "price": 25000
+  },
+  {
+    "videoID": "64c081d0fc64f01cf7423e56",
+    "name": "Refill - pengharum",
+    "link": "https://refil-spray-cologne.com",
+    "price": 15000
+  }
+]
